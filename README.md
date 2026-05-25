@@ -260,8 +260,27 @@ Desarrollar una herramienta inteligente capaz de asistir a agentes y supervisore
 
 ---
 
+# Pantallazos Aplicación
+
+### Principal
+<img width="1271" height="777" alt="image" src="https://github.com/user-attachments/assets/c5aa29f2-1bb3-4cd0-820f-77478cc9889c" />
+
+---
+
+### Historial
+<img width="1875" height="951" alt="image" src="https://github.com/user-attachments/assets/1510d85d-fe29-4cc4-88cd-21e90ecb8cca" />
+
+
+---
+
+### Modelos de IA
+<img width="1265" height="953" alt="image" src="https://github.com/user-attachments/assets/eb08261c-c382-4c0f-a5e5-27c850712a30" />
+
+---
+
 # Autor
 
 Proyecto desarrollado por:
 
 **Daniel Alfonso Agudelo Guio**
+
